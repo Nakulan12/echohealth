@@ -24,7 +24,7 @@
   Displays personalized risk score (Low/Moderate/High) with analysis from both voice and facial modules.
 
 - 💬 **EchoCare AI Chatbot**  
-  Provides interpretations, wellness tips, lifestyle guidance using natural conversation (Dialogflow / LangChain).
+  Provides interpretations, wellness tips lifestyle guidance using natural conversation (Dialogflow / LangChain).
 
 - 🧠 **Symptom Journal & Tracker**  
   Daily symptom logging with heatmap trend view for personal health monitoring.
