@@ -36,7 +36,7 @@
   Auto-generated health report with shareable QR code for clinics and health workers.
 
 - 🆘 **Emergency Assistant**  
-  Panic button for assistance with calming UI and emergency contact notifier.
+  Panic button for assistance with calming UI and emergency contact notifier
 
 ---
 
