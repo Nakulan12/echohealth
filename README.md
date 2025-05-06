@@ -15,7 +15,7 @@
 ## 🚀 Key Features
 
 - 🎤 **Voice-Based Analysis**  
-  Uses your microphone to analyze breathing patterns, stress levels, and speech pauses.
+  Uses your microphone to analyze breathing patterns, stress levels, and speech pauses
 
 - 📸 **Facial Expression Detection**  
   Real-time facial monitoring using webcam and MediaPipe to detect tremors, blink rate, and emotional state.
