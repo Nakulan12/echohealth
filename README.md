@@ -8,7 +8,7 @@
 
 **EchoHealth** is an AI-powered web application that performs non-invasive health screenings using facial expressions, voice patterns, and behavioral cues. Designed for accessibility and real-time detection, the platform aims to assist users—especially those in underserved or remote regions—in monitoring early signs of physical or mental health conditions without the need for expensive medical tests.
 
-🧪 Built for the **AmpliCode Hackathon 2025 – AI for Good Track**
+🧪 AI for Good Track**
 
 ---
 
