@@ -67,7 +67,7 @@ echohealth-main/
 └── tailwind.config.ts
 ```
 
----
+----
 
 ## 🧑‍💻 Getting Started
 
