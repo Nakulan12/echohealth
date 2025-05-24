@@ -1,4 +1,4 @@
-# 🩺 EchoHealth Web – AI-Based Early Health Risk Screener.
+# 🩺 EchoHealth Web – AI-Based Early Health Risk Screener
 
 > **Empowering individuals to detect early health risks through voice, facial, and behavioral analysis using AI—right from the browser**
 
