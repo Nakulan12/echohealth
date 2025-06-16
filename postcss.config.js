@@ -4,6 +4,3 @@ export default {
     autoprefixer: {},
   },
 }
-
-
-
